@@ -4,7 +4,7 @@
 
 ## Overview
 
-A workflow optimization for data science project creations. The contained files are my standard files that I include in the majority of the projects and applications I create/develop/manage.
+A workflow optimization for data science project creations. The contained files are my standard admin files that I include in the majority of the projects and applications I create/develop/manage.
 
 ## Usage
 
